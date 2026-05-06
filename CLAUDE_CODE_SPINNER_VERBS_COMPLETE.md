@@ -36,6 +36,9 @@ Analyzing...
 
 Each message appears briefly (fractions of a second) before being replaced by another, creating an animated effect that provides visual feedback while adding personality to the CLI experience.
 
+### What Do Spinner Verbs Mean?
+![Alt text](spinner_verbs_processing_stages.svg)
+
 ### Purpose of Spinner Verbs
 
 - **Visual Feedback:** Users know Claude is actively working
@@ -44,6 +47,8 @@ Each message appears briefly (fractions of a second) before being replaced by an
 - **Community:** Users enjoy spotting different verbs and discussing favorites
 
 ---
+
+
 
 ## 🔄 Processing Pipeline
 
