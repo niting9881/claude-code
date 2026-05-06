@@ -36,7 +36,6 @@ Analyzing...
 
 Each message appears briefly (fractions of a second) before being replaced by another, creating an animated effect that provides visual feedback while adding personality to the CLI experience.
 
-### What Do Spinner Verbs Mean?
 ![Alt text](spinner_verbs_processing_stages.svg)
 
 ### Purpose of Spinner Verbs
